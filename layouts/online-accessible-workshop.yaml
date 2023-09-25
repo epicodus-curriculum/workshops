@@ -1,0 +1,37 @@
+section: Online Accessible Workshop
+order: 2
+repo: workshops
+directory: 2_online-accessible-workshop
+lessons:
+  - title: Welcome to the Workshop
+    filename: ucode_1_welcome-to-ucode-workshop.md
+    day: weekend
+    type: lesson
+  - title: Using Glitch
+    filename: ucode_2_using_glitch.md
+    day: weekend
+    type: lesson
+  - title: Writing HTML
+    filename: ucode_3_writing_html.md
+    day: weekend
+    type: lesson
+  - title: Styling CSS
+    filename: ucode_4_styling_with_css.md
+    day: weekend
+    type: lesson
+  - title: Intro to JavaScript
+    filename: ucode_5_introduction_to_javascript.md
+    day: weekend
+    type: lesson
+  - title: Interactivity with JavaScript and jQuery
+    filename: ucode_6_interactivity_with_js_and_jquery.md
+    day: weekend
+    type: lesson
+  - title: Conclusion
+    filename: ucode_7_conclusion.md
+    day: weekend
+    type: lesson
+  - title: Further Exploration
+    filename: ucode_8_further_exploration.md
+    day: weekend
+    type: lesson

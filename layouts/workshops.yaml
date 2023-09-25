@@ -1,0 +1,6 @@
+title: Workshops
+show_weeks_and_days: false
+homepage: index.md
+sections:
+  - intro-to-programming-workshop.yaml
+  - online-accessible-workshop.yaml

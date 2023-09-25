@@ -1,0 +1,37 @@
+section: Intro to Programming Workshop
+order: 1
+repo: workshops
+directory: 1_intro-to-programming-workshop
+lessons:
+  - title: Welcome
+    filename: 1_welcome.md
+    day: weekend
+    type: lesson
+  - title: Writing HTML
+    filename: 2_writing_html.md
+    day: weekend
+    type: lesson
+  - title: Styling CSS
+    filename: 3_styling_css.md
+    day: weekend
+    type: lesson
+  - title: Intro to JavaScript
+    filename: 4_intro_to_js.md
+    day: weekend
+    type: lesson
+  - title: Interactivity with JavaScript and jQuery
+    filename: 5_interactivity_with_js_and_jquery.md
+    day: weekend
+    type: lesson
+  - title: Publishing Your Site with GitHub Pages
+    filename: 6_publishing_your_site_with_gh_pages.md
+    day: weekend
+    type: lesson
+  - title: Conclusion
+    filename: 7_conclusion.md
+    day: weekend
+    type: lesson
+  - title: Further Exploration
+    filename: 8_further_exploration.md
+    day: weekend
+    type: lesson
