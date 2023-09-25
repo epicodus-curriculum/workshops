@@ -1,6 +1,6 @@
 In the previous lesson, we created our project's directory along with our first file. Next, let's begin creating our actual website using **HTML**.
 
-<hr>
+<hr />
 
 ### Writing HTML
 
@@ -15,6 +15,7 @@ Open that file now. It's time to add some HTML!
 Read the following code and carefully type it into the `index.html` file.
 
 <div class="filename">index.html</div>
+
 ```html
 <!DOCTYPE html>
 <html>
@@ -42,13 +43,14 @@ Now we can see our page:
 
 ![webpage-in-browser-1](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/Workshop/webpage_in_browser_1.png)
 
-<hr>
+<hr />
 
 ### Expanding HTML
 
 Let's add some more elements to our HTML. We'll start with another header. Follow along and match your HTML to the following code snippet. Note that we've limited the code snippet to the `<body>` element for now. Also, each html document should have just one set of `body` tags. The `body` tags should "wrap around" the rest of the html code that isn't inside the `head`.
 
 <div class="filename">index.html</div>
+
 ```html
 ...
   <body>
@@ -67,6 +69,7 @@ Save the file and refresh the page in your browser. Note how the `<strong>` and 
 Let's use a new element to display an image on our page.
 
 <div class="filename">index.html</div>
+
 ```html
 ...
   <body>
@@ -86,13 +89,14 @@ Save the file and refresh the page in your browser. Our webpage now includes an 
 
 ![webpage-with-image](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/Workshop/webpage_in_browser_3.png)
 
-<hr>
+<hr />
 
 ### An HTML list
 
 Let's create a list of goals below the image we're displaying. Add the following code below the `<img>` element:
 
 <div class="filename">index.html</div>
+
 ```html
 ...
 <h3>My Goals:</h3>
@@ -115,7 +119,7 @@ When we reload, we see our list neatly displayed under the image.
 
 ![list-in-webpage](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/Workshop/Screen%20Shot%202017-04-07%20at%203.26.25%20PM.png)
 
-<hr>
+<hr />
 
 ### Hyperlinks
 
@@ -124,6 +128,7 @@ Let's add one more element to our page. No website would be complete without lin
 Let's add the following code to the *index.html* file.
 
 <div class="filename">index.html</div>
+
 ```html
 ...
 <h3>My favorite website</h3>

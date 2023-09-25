@@ -5,6 +5,7 @@ In order to do this, we're going to use a JavaScript library called jQuery. jQue
 First we need to alter our HTML `head` again to include jQuery. We'll use a URL to reference it just like we did with the Bootstrap library.
 
 <div class="filename">index.html</div>
+
 ```html
 ...
 <head>
@@ -26,6 +27,7 @@ Why is this important? Well, the DOM needs to be built before we run our JavaScr
 For that reason, our code is going to be wrapped in a jQuery function that is very common in scripts that are used for websites:
 
 <div class="filename">script.js</div>
+
 ```js
 $(document).ready(function() {
   // Our code will go here.
@@ -50,6 +52,7 @@ function() {
 Now let's get this code to interact with our page. We can target specific elements in our site by using the same classes and ids we've already added to our code for CSS rules. Let's change our function to the following:
 
 <div class="filename">js/scripts.js</div>
+
 ```js
 $(document).ready(function() {
   alert($("#css-item").text());
@@ -68,13 +71,14 @@ We have passed another function into our `alert()` here. This one states that we
 
 Try adding different ids to other elements within the HTML and then use jQuery's `text()` function to pass them into the `alert()`. For instance, try adding an id to a `<p>` element or a header element.
 
-<hr>
+<hr />
 
 ### Adding to our list.
 
 Next, let's create a form that allows us to add new items to our list of programming goals. We'll add this form to our `index.html` file just above the `<ul>` that contains our list of goals.
 
 <div class="filename">index.html</div>
+
 ```html
 ...
   <div class="form-group">
@@ -98,6 +102,7 @@ When we click the button however, nothing happens. We'll need to use jQuery to m
 In our `scripts.js` file, let's replace our alert with a new kind of function. Here's what we want our file to look like:
 
 <div class="filename">js/scripts.js</div>
+
 ```js
 $(document).ready(function() {
   $("#goal-button").click(function() {

@@ -1,6 +1,6 @@
 Now that we've added HTML content to our webpage, we can style and format our HTML using **CSS**.
 
-<hr>
+<hr />
 
 ### Using CSS
 
@@ -20,6 +20,7 @@ Back in Atom, we see that our *css* folder now exists and contains our new file.
 Open the `styles.css` file. Let's write our first CSS rule.
 
 <div class="filename">css/styles.css</div>
+
 ```css
 h1 {
   color: blue;
@@ -36,6 +37,7 @@ This style can be broken down into a few sections.
 We can combine multiple rules in each style. Let's add another property to this rule.
 
 <div class="filename">css/styles.css</div>
+
 ```css
 h1 {
   color: blue;
@@ -61,6 +63,7 @@ It may not be the prettiest style, but we certainly have changed it. In fact, th
 
 
 <div class="filename">css/styles.css</div>
+
 ```css
 h1 {
   color: blue;
@@ -75,6 +78,7 @@ This is how our site looks now:
 You can look up a list of all the colors CSS has defined or use a **hex-color**. Let's use a hex-color to change the text to a lighter blue. While we're at it, we'll put that background color behind the entire body of the page.
 
 <div class="filename">css/styles.css</div>
+
 ```css
 h1 {
   color: #5179ba;
@@ -89,7 +93,7 @@ body {
 
 Feel free to style elements on your page using the attributes and properties above. You can modify any element on that page including other header tags, paragraph tags, `img` tags and so on.
 
-<hr>
+<hr />
 
 ### Using a class or id
 
@@ -103,6 +107,7 @@ We can use two powerful HTML tools to do this: the **class** and the **id**.
 Let's modify our list of goals in our HTML to see how this works. We'll add a few more items as well as add a few classes and ids.
 
 <div class="filename">index.html</div>
+
 ```html
 ...
 <ul id="goal-list">
@@ -131,6 +136,7 @@ In order to apply rules to ids and classes in our CSS, we must do the following:
 
 
 <div class="filename">css/styles.css</div>
+
 ```css
 .list-item {
   font-family: monospace;
@@ -158,6 +164,7 @@ It's time to reload our page in the browser. We'll see our new CSS rules being a
 Finally, let's give our image some style rules. We've already added the id `picture`. Now we can target the image with a CSS rule that applies to `#picture`.
 
 <div class="filename">css/styles.css</div>
+
 ```css
 #picture {
   width: 60%;
@@ -173,7 +180,7 @@ Here's our page now:
 
 ![css-rule-applied-to-img](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/Workshop/css-rule-applied-to-img-id.png)
 
-<hr>
+<hr />
 
 ### Using Bootstrap
 
@@ -182,6 +189,7 @@ We can make our CSS styling much easier by using an existing CSS library. There 
 In our HTML, just above where we linked our `styles.css` file, let's add a new line of code. It should look like this:
 
 <div class="filename">index.html</div>
+
 ```html
 ...
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -201,6 +209,7 @@ One problem that jumps out is that the text is very tight on the left of the scr
 We'll also use a new HTML element called a `<div>`. A `<div>` makes divisions on the page and is used to group parts of our page together. Let's put all the code within the `<body>` within a `<div>`. We'll also give it a Bootstrap class called `container`.
 
 <div class="filename">index.html</div>
+
 ```html
 ...
 <body>

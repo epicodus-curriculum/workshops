@@ -2,7 +2,7 @@
 
 Welcome to the Intro to Programming Workshop at Epicodus. This workshop is designed to give you a chance to experience working with some of the basic tools used in everyday web development. It doesn't matter if you've coded before or if this is your first time building a project. By completing this workshop you'll get a feel for what goes into building a basic website. You might also get a sense of whether this is the kind of career you might be interested in pursuing. You'll also get a feel for what attending Epicodus as a student is all about.
 
-<hr>
+<hr />
 
 ## The Workshop
 
@@ -16,7 +16,7 @@ Finally, we'll learn how to use Git, a piece of version control software, to tra
 
 You'll also have the opportunity to ask questions about Epicodus and go through our application/interview process if you're interested in enrollment.
 
-<hr>
+<hr />
 
 ## Today's Project
 

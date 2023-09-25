@@ -1,7 +1,7 @@
 If you'd like to tackle another project, check out the prompts below.
 
 ## Bonus Projects
-<hr>
+<hr />
 
 The first two activities below use the same general process as your programming goals website (writing basic HTML, adding a few CSS styles, implementing interactivity with JavaScript, and publishing to GitHub).
 

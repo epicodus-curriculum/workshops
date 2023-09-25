@@ -13,6 +13,7 @@ Let's use our terminal to create a new folder in our project called `js`. Within
 Next, let's go into our `index.html` file and link `scripts.js`. It will be similar to how we linked our CSS file. However, we'll need to use a slightly different format. Update the `<head>` element in `index.html` to look like this:
 
 <div class="filename">index.html</div>
+
 ```html
 ...
 <head>
@@ -29,6 +30,7 @@ We use the `<script>` element and a `src` attribute to link JavaScript to HTML. 
 Now let's open our `scripts.js` file and add some code.
 
 <div class="filename">js/scripts.js</div>
+
 ```js
 alert("Hello World!");
 ```
@@ -50,6 +52,7 @@ String is a **data type**. There are many other data types. One example is numbe
 Clear the contents of `scripts.js` and replace it with the following lines of code. Pause before you reload your page and try to predict what we might see.
 
 <div class="filename">js/scripts.js</div>
+
 ```js
 alert(2 + 2);
 alert(4 * "2");
