@@ -1,7 +1,7 @@
 ---
 title: Workshops
 id: index
-slug: /workshops
+slug: /
 hide_table_of_contents: true
 sidebar_position: 0
 ---
