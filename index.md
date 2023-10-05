@@ -17,7 +17,7 @@ Here’s some of what we’ll cover:
 * Bootstrap: A framework for easily creating good-looking websites
 * jQuery: A library that makes things like HTML document traversal and manipulation simple
 
-If you are participating in the online-only remote workshop, you'll start with the [Online Accessible Workshop Lessons]https://workshops.learnhowtoprogram.com/online-accessible-workshop/welcome-to-the-workshop). Otherwise, if you are participating in an in-person workshop environment, you'll start with the [Intro to Programming Workshop Lessons]https://workshops.learnhowtoprogram.com/intro-to-programming-workshop/welcome). 
+If you are participating in the online-only remote workshop, you'll start with the [Online Accessible Workshop Lessons](https://new.learnhowtoprogram.com/workshops/online-accessible-workshop/welcome-to-the-workshop). Otherwise, if you are participating in an in-person workshop environment, you'll start with the [Intro to Programming Workshop Lessons](https://new.learnhowtoprogram.com/workshops/intro-to-programming-workshop/welcome). 
 
 Both sets of lessons are accessible on the side bar.
 
