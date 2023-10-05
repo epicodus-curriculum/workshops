@@ -55,6 +55,6 @@ The first two make some sense. However, the third doesn't actually add the two n
 
 Try experimenting with different combinations of strings and integers. Guess what will happen before you refresh your page.
 
-There are many different data types in JavaScript and in computer programming in general. We can only scratch the surface in this workshop but we cover them in much more depth in our full curriculum. We can even define our own data types and set up rules for how they behave. If you'd like to learn more about JavaScript, there are many great resources online. Check out our lessons at [learnhowtoprogram.com](https://new.learnhowtoprogram.com/introduction-to-programming).
+There are many different data types in JavaScript and in computer programming in general. We can only scratch the surface in this workshop but we cover them in much more depth in our full curriculum. We can even define our own data types and set up rules for how they behave. If you'd like to learn more about JavaScript, there are many great resources online. Check out our lessons at [learnhowtoprogram.com](/introduction-to-programming).
 
 In our next lesson, we'll learn how to use JavaScript to do something useful on our Glitch site.

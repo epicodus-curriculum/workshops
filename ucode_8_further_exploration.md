@@ -31,6 +31,6 @@ Create a basic "discussion board" website where users can converse about a topic
 
 ### Learn about Divs and Spans
 
-Are you ready to learn something new? Check out the [Divs and Spans](https://new.learnhowtoprogram.com/introduction-to-programming/git-html-and-css/html-divs-and-spans-and-css-sizing-units) lesson from our full-time Intro to Programming class.
+Are you ready to learn something new? Check out the [Divs and Spans](/introduction-to-programming/git-html-and-css/html-divs-and-spans-and-css-sizing-units) lesson from our full-time Intro to Programming class.
 
 `<div></div>` and `<span></span>` tags can be used to apply CSS styles to _multiple_ HTML elements at once. After reading and/or watching the lesson in its entirety, experiment with including divs and spans in one of your projects from today.
