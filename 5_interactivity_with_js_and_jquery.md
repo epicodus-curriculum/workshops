@@ -114,7 +114,7 @@ $(document).ready(function() {
 
 Let's look at these new lines together:
 
-![annotated-jquery-in-atom](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/Workshop/annotated-jquery%20(1).png)
+![annotated-jquery-in-atom](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/Workshop/annotated-jquery.png)
 
 * Most of the code (everything in the solid blue rectangle above) is nested inside the `$(document).ready` function. As discussed earlier, code that resides within this must wait until our HTML has fully loaded before it runs.
 
@@ -144,7 +144,7 @@ To review, as soon as we visit our page, the following events occur in this orde
 
 *  The first line in the click listener block _appends_ new content to the HTML element on our page with the `goal-list` id. It adds the HTML `<li class='list-item'>`, the _custom_ content the user typed into the form field, and a closing `</li>` tag. The user's form content is retrieved by calling `$("#new-goal").val()`:
 
-![jquery-appending-to-html](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/Workshop/jquery-step-two%20(1).png)
+![jquery-appending-to-html](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/Workshop/jquery-step-two.png)
 
 *  The line `$("#new-goal").val("");` simply empties the form field so the user may enter another goal into the form.
 

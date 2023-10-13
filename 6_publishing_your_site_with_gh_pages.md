@@ -46,7 +46,7 @@ This should take you to a screen that looks like this:
 
 
 
-![create-new-repo-screen](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/Workshop/create-new-repo%20(1).png)
+![create-new-repo-screen](https://learnhowtoprogram.s3.us-west-2.amazonaws.com/Workshop/create-new-repo-2.png)
 
 Pick a clear, concise name for your repo. An example might be *workshop_project*. You don't need to alter any of the other options here besides your _Repository name_. After entering a name, click the _Create repository_ button. This should take you to a page that looks like this:
 
