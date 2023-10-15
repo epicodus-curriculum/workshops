@@ -11,4 +11,4 @@ Visit our website at [epicodus.com](http://www.epicodus.com/) or chat with the s
 
 ### Not Done Yet?
 
-If you've reached this message before the end of the workshop _or_ if you'd like to  get more practice with the concepts we've covered today at home, check out the [next lesson](/online-accessible-workshop/further-exploration) for bonus projects and activities!
+If you've reached this message before the end of the workshop _or_ if you'd like to  get more practice with the concepts we've covered today at home, check out the [next lesson](/online-accessible-workshop/further-exploration) for bonus projects and activities.
